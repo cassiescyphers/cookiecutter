@@ -1,5 +1,5 @@
 # My Cookiecutter Template
-This is heavily derived from the cookiecutter-data-science repo located [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
+This is heavily derived from the cookiecutter-data-science repo located (http://drivendata.github.io/cookiecutter-data-science/)
 
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
@@ -59,7 +59,6 @@ The directory structure of your new project looks like this:
 └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 ```
 
-## Contributing
 
 
 ### Installing development requirements
